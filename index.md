@@ -1,2 +1,2 @@
 # OMG THIS IS MY HEADER FOR GITHUB #
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Samus Aran Picture](https://static.zerochan.net/Zero.Suit.Samus.full.3249763.jpg)
